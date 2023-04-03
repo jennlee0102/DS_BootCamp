@@ -30,7 +30,7 @@ Learned: Neural Nets, Hyperparameters, Count_based_representation, Distribution_
 ### Section 4. Data Engineering
 - Relational Database (SQL)
 - Data Collection & NoSQL
--
+- Data Management
 
 Learned: RDB&RDBMS, RDB vs NoSQL
-  - Skills: Conda, Python[Function, Class, Decorator], DBEAVER, MySQL, HTML, CSS, DOCKER, FLASK
+  - Skills: Conda, Python[Function, Class, Decorator], DBEAVER, MySQL, HTML, CSS, DOCKER, FLASK, BI&DashBoard, timestamp&object encoding
