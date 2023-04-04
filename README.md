@@ -1,4 +1,4 @@
-# AI_BootCamp
+# DS_BootCamp
 
 ### [Section 1. Introduction to Data Science](https://www.notion.so/zzaeeunssi/Introduction-to-Data-Science-6e50ef9d4924445bb75e6843d593c7c3)
 - Data Processing & EDA
