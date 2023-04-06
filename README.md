@@ -1,6 +1,6 @@
 # DS_BootCamp
 
-Please check out the four sections of my class, which are organized in Notion. Click the links below to learn more about what I'm studying.
+Please check out the four sections of my class, which are organized in Notion. Click the links below to learn more about what I've studied.
 
 ### [Section 1. Introduction to Data Science](https://www.notion.so/zzaeeunssi/Introduction-to-Data-Science-6e50ef9d4924445bb75e6843d593c7c3)
 #### Analysis Practice
