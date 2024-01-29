@@ -2,7 +2,7 @@
 
 Please check out the four sections of the camp, which are organized in Notion. Click the links below to learn more about what I've studied.
 
-### [Section 1. Introduction to Data Science](https://www.notion.so/zzaeeunssi/Introduction-to-Data-Science-6e50ef9d4924445bb75e6843d593c7c3)
+### [Section 1. Introduction to Data Science](https://www.notion.so/zzaeeunssi/Introduction-to-Data-Science-1df95ddba7384b749270e96314cfbb73?pvs=4)
 #### Analysis Practice
 - Data Processing & EDA
 - Statistics
@@ -12,7 +12,7 @@ Learned: Data Wrangling, EDA, Visualization
   - Skills: Pandas, MatplotLib, Seaborn
 
 
-### [Section 2. Machine Learning](https://www.notion.so/zzaeeunssi/Machine-Learning-ca5ea9125bbd4cc7a81cd196783df1c7)
+### [Section 2. Machine Learning](https://www.notion.so/zzaeeunssi/Machine-Learning-2b1d430f7b16446eb94724272a23b83d?pvs=4)
 #### ML Practice
 - Linear Models
 - Tree Based Model
@@ -22,7 +22,7 @@ Learned: LinearRegression, Ridge, Lasso, Logistic Regression, RandomForestClassi
   - Skills: category_encoders, model_selection, pipeline, scikitlearn
 
 
-### [Section 3. Deep Learning](https://www.notion.so/zzaeeunssi/Deep-Learning-f062c4f46d864dca979644074c580d9e)
+### [Section 3. Deep Learning](https://www.notion.so/zzaeeunssi/Deep-Learning-143fd5d85cb540f2b552e8f7c8da2b27?pvs=4)
 #### DL Practice
 - Neutral Networks
 - Natural Language Processing
@@ -32,7 +32,7 @@ Learned: Neural Nets, Hyperparameters, Count_based_representation, Distribution_
   - Skills: pre-trained model application, text data calssification, image data classification
 
 
-### [Section 4. Data Engineering](https://www.notion.so/zzaeeunssi/Data-Engineering-5dd6f36a73db4ba891b31098dcaf94fd)
+### [Section 4. Data Engineering](https://www.notion.so/zzaeeunssi/Data-Engineering-35fa6808f8d0454e86b707229e28c7fd?pvs=4)
 #### Data Engineering Practice
 - Relational Database (SQL)
 - Data Collection & NoSQL
